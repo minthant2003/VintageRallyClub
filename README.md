@@ -1,2 +1,2 @@
 # VintageRallyClub
-My very first web page using only HTML and CSS. (Responsive web design and Accessibilities are considered.)
+My very first website using only HTML and CSS. (Responsive web design and Some Accessibility features are considered.)
